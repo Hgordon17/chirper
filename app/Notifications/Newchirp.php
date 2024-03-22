@@ -32,7 +32,7 @@ class Newchirp extends Notification
     }
 
     /**
-     * Get the mail representation of the notification.
+     * Get to see the mail.
      */
     public function toMail(object $notifiable): MailMessage
     {
